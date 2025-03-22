@@ -1,0 +1,14 @@
+C:\Users\raaga\source\repos\BasicMath\bin\Debug\net8.0\BasicMath.exe
+C:\Users\raaga\source\repos\BasicMath\bin\Debug\net8.0\BasicMath.deps.json
+C:\Users\raaga\source\repos\BasicMath\bin\Debug\net8.0\BasicMath.runtimeconfig.json
+C:\Users\raaga\source\repos\BasicMath\bin\Debug\net8.0\BasicMath.dll
+C:\Users\raaga\source\repos\BasicMath\bin\Debug\net8.0\BasicMath.pdb
+C:\Users\raaga\source\repos\BasicMath\obj\Debug\net8.0\BasicMath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raaga\source\repos\BasicMath\obj\Debug\net8.0\BasicMath.AssemblyInfoInputs.cache
+C:\Users\raaga\source\repos\BasicMath\obj\Debug\net8.0\BasicMath.AssemblyInfo.cs
+C:\Users\raaga\source\repos\BasicMath\obj\Debug\net8.0\BasicMath.csproj.CoreCompileInputs.cache
+C:\Users\raaga\source\repos\BasicMath\obj\Debug\net8.0\BasicMath.dll
+C:\Users\raaga\source\repos\BasicMath\obj\Debug\net8.0\refint\BasicMath.dll
+C:\Users\raaga\source\repos\BasicMath\obj\Debug\net8.0\BasicMath.pdb
+C:\Users\raaga\source\repos\BasicMath\obj\Debug\net8.0\BasicMath.genruntimeconfig.cache
+C:\Users\raaga\source\repos\BasicMath\obj\Debug\net8.0\ref\BasicMath.dll
